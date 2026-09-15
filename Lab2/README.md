@@ -17,3 +17,4 @@ Chương trình cung cấp menu tương tác gồm các chức năng sau:
 ##  Công Nghệ Ứng dụng
 * **Ngôn ngữ:** C# 
 * **Môi trường phát triển:** Visual Studio 
+## Hướng Dẫn Sử dụng
