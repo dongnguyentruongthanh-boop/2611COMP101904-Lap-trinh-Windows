@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CourseRegistrationApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABCA51F-CE6F-42A0-BE10-25B9F44C405A}|CourseRegistrationApp\\CourseRegistrationApp.csproj|c:\\users\\admin\\source\\repos\\courseregistrationapp\\courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABCA51F-CE6F-42A0-BE10-25B9F44C405A}|CourseRegistrationApp\\CourseRegistrationApp.csproj|solutionrelative:courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABCA51F-CE6F-42A0-BE10-25B9F44C405A}|CourseRegistrationApp\\CourseRegistrationApp.csproj|c:\\users\\admin\\source\\repos\\courseregistrationapp\\courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABCA51F-CE6F-42A0-BE10-25B9F44C405A}|CourseRegistrationApp\\CourseRegistrationApp.csproj|solutionrelative:courseregistrationapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CourseRegistrationApp\\CourseRegistrationApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseRegistrationApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CourseRegistrationApp\\CourseRegistrationApp\\Form1.cs",
+              "RelativeToolTip": "CourseRegistrationApp\\Form1.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwIgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:29:45.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CourseRegistrationApp\\CourseRegistrationApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseRegistrationApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CourseRegistrationApp\\CourseRegistrationApp\\Form1.cs [Design]",
+              "RelativeToolTip": "CourseRegistrationApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T17:28:06.825Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

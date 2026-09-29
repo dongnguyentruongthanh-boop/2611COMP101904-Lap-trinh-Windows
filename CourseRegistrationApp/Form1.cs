@@ -14,7 +14,7 @@ namespace CourseRegistrationApp
 {
     public partial class dangKyKhoaHoc : Form
     {
-        // Lớp Khóa học
+       
         public class KhoaHoc
         {
             public string TenKhoaHoc { get; }
@@ -46,15 +46,15 @@ namespace CourseRegistrationApp
             cboKhoaHoc.Items.Add(new KhoaHoc("Web Frontend cơ bản", 750000));
             cboKhoaHoc.Items.Add(new KhoaHoc("Lập trình Python cơ bản", 650000));
 
-            // Mặc định chọn khóa học đầu tiên
+            
             if (cboKhoaHoc.Items.Count > 0)
                 cboKhoaHoc.SelectedIndex = 0;
 
-            // Mặc định chọn hình thức Online và số tháng là 1
+            
             radOnline.Checked = true;
             numSoThang.Value = 1;
 
-            // Tính học phí ban đầu
+            
             TinhHocPhi();
         }
 
@@ -79,7 +79,7 @@ namespace CourseRegistrationApp
 
         private void btnDangKy_Click(object sender, EventArgs e)
         {
-            // 1. Kiểm tra họ tên
+          
             if (string.IsNullOrWhiteSpace(txtHoTen.Text))
             {
                 MessageBox.Show("Vui lòng nhập họ và tên!", "Thông báo lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -93,7 +93,7 @@ namespace CourseRegistrationApp
                 return;
             }
 
-            // 2. Kiểm tra SĐT
+            
             if (string.IsNullOrWhiteSpace(txtSoDienThoai.Text))
             {
                 MessageBox.Show("Vui lòng nhập số điện thoại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
@@ -133,19 +133,19 @@ namespace CourseRegistrationApp
 
             // Hiển thị thông tin đăng ký
             string thongTin =
-                "========================================\n" +
-                "           PHIẾU ĐĂNG KÝ KHÓA HỌC           \n" +
-                "========================================\n\n" +
-                $"• Họ và tên:\t\t{txtHoTen.Text.Trim()}\n" +
-                $"• Số điện thoại:\t\t{txtSoDienThoai.Text.Trim()}\n" +
-                $"• Ngày sinh:\t\t{dtpNgaySinh.Value:dd/MM/yyyy}\n" +
-                $"• Khóa học:\t\t{cboKhoaHoc.Text}\n" +
-                $"• Hình thức:\t\t{hinhThuc}\n" +
-                $"• Số tháng:\t\t{numSoThang.Value} tháng\n" +
-                $"• Nhận email:\t\t{email}\n\n" +
-                "----------------------------------------\n" +
-                $"► TỔNG HỌC PHÍ:\t{lblTongTien.Text}\n" +
-                "========================================";
+                    "=======================================\n" +
+                  "             THÔNG TIN ĐĂNG KÝ KHÓA HỌC        \n" +
+                  "=======================================\n\n" +
+                  $"* Họ và tên    : {txtHoTen.Text.Trim()}\n" +
+                  $"* Điện thoại   : {txtSoDienThoai.Text.Trim()}\n" +
+                  $"* Ngày sinh    : {dtpNgaySinh.Value:dd/MM/yyyy}\n" +
+                  $"* Khóa học     : {cboKhoaHoc.Text}\n" +
+                  $"* Hình thức    : {hinhThuc}\n" +
+                  $"* Thời gian    : {numSoThang.Value} tháng\n" +
+                  $"* Nhận email   : {email}\n\n" +
+                  "----------------------------------------\n" +
+                  $"==> TỔNG TIỀN  : {lblTongTien.Text}\n" +
+                  "========================================";
 
             MessageBox.Show(thongTin, "Phiếu đăng ký", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
@@ -183,7 +183,7 @@ namespace CourseRegistrationApp
 
        
 
-        // Các hàm sự kiện phụ giữ lại để tránh lỗi biên dịch nếu file Designer đang gọi
+        
         private void label1_Click(object sender, EventArgs e) { }
         private void lbldangKyKhoaHoc_Click(object sender, EventArgs e) { }
         private void textBox1_TextChanged(object sender, EventArgs e) { }
