@@ -37,3 +37,24 @@
 
 ## 4. Hướng dẫn thực hiện chương trình
 1/ Giao diện
+
+<img width="837" height="642" alt="Giao diện" src="https://github.com/user-attachments/assets/abf1dac3-e765-465d-ba7c-36fa49c6f1c9" />
+
+2/ Pen
+
+<img width="838" height="640" alt="Chế độ pen" src="https://github.com/user-attachments/assets/15c59672-79f1-41ee-aed4-fd423a8c662e" />
+
+3/ Line
+
+<img width="837" height="636" alt="Chế độ line" src="https://github.com/user-attachments/assets/db90f38f-432b-4ed8-b576-7ea2efcb4a60" />
+
+4/ Rectangle
+<img width="840" height="631" alt="Chế độ rectangle" src="https://github.com/user-attachments/assets/cd4c970c-c9d9-47db-beae-4f8dcd8234c8" />
+
+5/ Circle
+
+ <img width="838" height="645" alt="Chế độ circle" src="https://github.com/user-attachments/assets/afdf1a97-b69f-4a6b-ba23-30549bdbb6ad" />
+
+
+
+
