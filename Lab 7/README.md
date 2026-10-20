@@ -65,4 +65,45 @@
 
 ## 4. Hướng dẫn thực hiện chương trình
 
+1/ Giao diện
+<img width="336" height="262" alt="Giao diện" src="https://github.com/user-attachments/assets/0ba4e678-729a-444b-9a80-1a593557cd25" />
+
+2/ Sai tên hoặc mật khẩu
+
+<img width="327" height="255" alt="Sai tên hoặc mật khẩu" src="https://github.com/user-attachments/assets/6087310c-08d7-43f1-bffe-b0610f036a90" />
+
+3/ Quản lý khách hàng
+
+<img width="975" height="638" alt="Quản lý khách hàng" src="https://github.com/user-attachments/assets/b537bd66-0e9f-4444-883f-de93a54eb48e" />
+
+4/ Quản lý Đơn hàng
+
+<img width="972" height="620" alt="Admin" src="https://github.com/user-attachments/assets/b8dfa264-731d-4dc0-8866-40ddee2f3575" />
+
+5/ Giới thiệu
+
+<img width="977" height="627" alt="Giới thiệu" src="https://github.com/user-attachments/assets/b74b8c4a-f130-40f2-ba87-6eb184a153fb" />
+
+
+# Câu hỏi nộp kèm 
+
+**1. SDI và MDI khác nhau như thế nào?**
+SDI (Single Document Interface): mỗi cửa sổ là một Form độc lập, mở ra là một cửa sổ riêng trên màn hình (ví dụ Notepad cũ). MDI (Multiple Document Interface): có một Form cha (`IsMdiContainer = true`) chứa nhiều Form con bên trong nó, các Form con không ra ngoài được khung của Form cha (ví dụ như Excel bản cũ). Trong bài này FrmMain là MDI Parent, còn FrmProduct, FrmCustomer, FrmAbout là MDI Child (đặt `MdiParent = this`).
+
+**2. Vì sao Form đăng nhập nên dùng ShowDialog()?**
+`ShowDialog()` mở form ở dạng modal: chương trình dừng lại ở dòng gọi cho đến khi form đóng, nên người dùng phải đăng nhập xong mới làm tiếp được. Ngoài ra `ShowDialog()` trả về `DialogResult`, nhờ đó `Program.cs` biết đăng nhập thành công (`OK`) hay người dùng đã thoát (`Cancel`) để quyết định có mở FrmMain hay không.
+
+**3. Dữ liệu user truyền từ FrmLogin sang FrmMain bằng cách nào?**
+FrmLogin có property `LoggedUser` lưu tài khoản đăng nhập đúng. Sau khi `ShowDialog()` trả về `OK`, `Program.cs` lấy `frmLogin.LoggedUser` rồi truyền vào constructor của FrmMain: `new FrmMain(currentUser)`. FrmMain dùng user này để hiện tên và vai trò trên StatusStrip.
+
+**4. Nếu người dùng bấm menu sản phẩm nhiều lần, chương trình xử lý như thế nào để không mở trùng Form?**
+Trước khi tạo form mới, duyệt qua `this.MdiChildren` để xem đã có form cùng kiểu chưa (`f is FrmProduct`). Nếu có rồi thì đưa về trạng thái bình thường (nếu đang thu nhỏ) và gọi `Activate()`, không `new` thêm. Chỉ khi chưa có mới tạo mới. Phần này nằm trong hàm `OpenChild<T>()` của FrmMain.
+
+**5. Khi nào nên dùng constructor, khi nào dùng property để truyền dữ liệu giữa các Form?**
+- Constructor: dùng khi dữ liệu bắt buộc phải có ngay lúc form khởi tạo. Ví dụ `new FrmMain(user)`, `new FrmProduct(products)`.
+- Property: dùng khi dữ liệu là tùy chọn, hoặc cần lấy kết quả ngược lại từ form con sau khi nó đóng, hoặc cần gán/đổi giá trị sau khi form đã được tạo. Ví dụ `FrmLogin.LoggedUser` để FrmMain/Program đọc kết quả sau khi đăng nhập.
+
+
+
+
 
