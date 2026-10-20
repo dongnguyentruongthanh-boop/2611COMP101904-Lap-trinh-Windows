@@ -66,10 +66,3 @@
 ## 4. Hướng dẫn thực hiện chương trình
 
 
-   ```csharp
-   ApplicationConfiguration.Initialize();
-   FrmLogin login = new FrmLogin();
-   if (login.ShowDialog() == DialogResult.OK)
-   {
-       Application.Run(new FrmMain(login.CurrentUser));
-   }
