@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lab 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99DFC48-BBF5-5E0F-36B5-40A0E9871950}|Lab 4\\Lab 4.csproj|c:\\users\\admin\\source\\repos\\lab 4\\lab 4\\lab 4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C99DFC48-BBF5-5E0F-36B5-40A0E9871950}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\lab 4.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99DFC48-BBF5-5E0F-36B5-40A0E9871950}|Lab 4\\Lab 4.csproj|c:\\users\\admin\\source\\repos\\lab 4\\lab 4\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99DFC48-BBF5-5E0F-36B5-40A0E9871950}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99DFC48-BBF5-5E0F-36B5-40A0E9871950}|Lab 4\\Lab 4.csproj|c:\\users\\admin\\source\\repos\\lab 4\\lab 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99DFC48-BBF5-5E0F-36B5-40A0E9871950}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab 4",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 4\\Lab 4\\Lab 4.csproj",
+              "RelativeDocumentMoniker": "Lab 4\\Lab 4.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 4\\Lab 4\\Lab 4.csproj",
+              "RelativeToolTip": "Lab 4\\Lab 4.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T05:40:19.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 4\\Lab 4\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Lab 4\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 4\\Lab 4\\ProductManager.cs",
+              "RelativeToolTip": "Lab 4\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:58:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 4\\Lab 4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 4\\Lab 4\\Program.cs",
+              "RelativeToolTip": "Lab 4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T04:56:52.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
