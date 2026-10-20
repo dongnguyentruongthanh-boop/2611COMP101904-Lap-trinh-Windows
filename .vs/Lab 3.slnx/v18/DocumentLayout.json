@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|c:\\users\\admin\\source\\repos\\lab 3\\lab 3\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|c:\\users\\admin\\source\\repos\\lab 3\\lab 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|c:\\users\\admin\\source\\repos\\lab 3\\lab 3\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|c:\\users\\admin\\source\\repos\\lab 3\\lab 3\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B8A1AC-9F1A-45CB-9573-02015F18B769}|Lab 3\\Lab 3.csproj|solutionrelative:lab 3\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Lab 3\\QuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\QuanLySinhVien.cs",
+              "RelativeToolTip": "Lab 3\\QuanLySinhVien.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:10:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\Nguoi.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Nguoi.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\Nguoi.cs",
+              "RelativeToolTip": "Lab 3\\Nguoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:10:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\Program.cs",
+              "RelativeToolTip": "Lab 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:09:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Lab 3\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab 3\\Lab 3\\SinhVien.cs",
+              "RelativeToolTip": "Lab 3\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:10:26.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
