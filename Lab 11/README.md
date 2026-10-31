@@ -33,14 +33,27 @@ Nếu máy dùng SQL Server Express thì đổi `Data Source=.` thành `Data Sou
 | F7 | Làm mới | Xóa TextBox, mở khóa ô mã, load lại |
 | F8 | Dùng SqlParameter cho mọi câu SQL có dữ liệu nhập | |
 
-Các test case xem trong `TestCases.md`.
+## Thực hiện chương trình
+## Giao diện
+<img width="630" height="511" alt="Giao diện" src="https://github.com/user-attachments/assets/368c4b06-2616-4bc8-931a-e004f21ad32e" />
 
-## Đẩy lên GitHub
-```
-git init
-git add .
-git commit -m "Lab 11 - CRUD lop hoc voi ADO.NET"
-git branch -M main
-git remote add origin <link-repo-cua-ban>
-git push -u origin main
-```
+## Trùng mã lớp
+<img width="640" height="508" alt="Trùng mã lớp" src="https://github.com/user-attachments/assets/51c52a1e-3078-4818-a574-67a6c216f2b2" />
+
+## Thêm lớp
+<img width="640" height="515" alt="thêm lớp" src="https://github.com/user-attachments/assets/3e92c6f5-fc12-4b7e-96b5-1bfdd5742d2e" />
+
+## Không thể xóa nếu lớp có sinh viên
+<img width="636" height="513" alt="không thể xóa nếu lớp có sinh viên" src="https://github.com/user-attachments/assets/b6a51941-6620-4781-b792-fc1a75a5036e" />
+
+## Tìm kiếm
+<img width="641" height="517" alt="tìm kiếm" src="https://github.com/user-attachments/assets/3cdde176-a8e3-4ad9-8a03-ea41008837db" />
+
+## Sửa thành công
+<img width="626" height="503" alt="Sửa thành công" src="https://github.com/user-attachments/assets/8151361e-1f98-4640-9551-b9a493e2489b" />
+
+## Click vào 1 dòng
+<img width="628" height="502" alt="Click vào" src="https://github.com/user-attachments/assets/88bb4195-a0c9-44a9-8eb6-47e9436dc42b" />
+
+## SQL cập nhật
+<img width="1280" height="536" alt="SQL" src="https://github.com/user-attachments/assets/258e5d45-5f98-48ff-a677-cf6b94dbe46b" />
