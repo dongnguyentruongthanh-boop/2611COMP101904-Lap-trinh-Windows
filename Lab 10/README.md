@@ -32,5 +32,25 @@ Sinh viên: ........................  Lớp: ........................
 Bốn câu này báo lỗi là đúng, chứng tỏ ràng buộc đang hoạt động.
 
 ## Ghi chú
-- Cả 6 sinh viên mẫu đều đã có điểm nên câu 6 em thêm sinh viên SV007 (chưa có điểm) để xóa thử. Câu xóa SV003 (đã có điểm) thì không xóa được dòng nào.
-- File lưu dạng UTF-8 để tiếng Việt trong N'...' không bị lỗi font.
+## Truy vấn liệt kệ sinh viên kèm tên và lớp:
+
+<img width="671" height="148" alt="Screenshot 2026-10-31 202811" src="https://github.com/user-attachments/assets/e3fbbcb2-5341-4339-89de-dd0628ce5a19" />
+
+## Các ràng buộc truy vấn
+
+<img width="1280" height="256" alt="Screenshot 2026-10-31 202305" src="https://github.com/user-attachments/assets/3f32b401-28c0-4798-8969-f78dac806cc6" />
+
+## Tính điểm trung bình
+<img width="710" height="165" alt="Screenshot 2026-10-31 202836" src="https://github.com/user-attachments/assets/53fc014b-24dc-423e-91de-bfa62486560b" />
+
+## Kết quả 
+<img width="1473" height="181" alt="Screenshot 2026-10-31 202353" src="https://github.com/user-attachments/assets/30cc1ef7-e9c1-4988-9b24-bd93feeb9c6f" />
+
+<img width="1462" height="322" alt="Screenshot 2026-10-31 202508" src="https://github.com/user-attachments/assets/2e46e5ec-e0a5-4fef-9418-87b3b84f9c69" />
+
+<img width="1465" height="391" alt="Screenshot 2026-10-31 202452" src="https://github.com/user-attachments/assets/277fee0b-0798-466b-b031-434885a45c84" />
+
+<img width="1477" height="343" alt="Screenshot 2026-10-31 202440" src="https://github.com/user-attachments/assets/6964b7b5-b7ff-4837-aaaf-10c450ff16e1" />
+
+<img width="1442" height="216" alt="Screenshot 2026-10-31 202400" src="https://github.com/user-attachments/assets/3994036a-9861-4f02-98fe-b3a08991442f" />
+
