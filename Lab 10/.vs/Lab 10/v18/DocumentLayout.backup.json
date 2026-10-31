@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\Lab 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\02_InsertSampleData.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab10_EduManagerDB\\02_InsertSampleData.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\03_Queries.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab10_EduManagerDB\\03_Queries.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\01_CreateDatabase.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab10_EduManagerDB\\01_CreateDatabase.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03_Queries.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (102))",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\03_Queries.sql",
+              "RelativeDocumentMoniker": "Lab10_EduManagerDB\\03_Queries.sql",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\03_Queries.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (102))",
+              "RelativeToolTip": "Lab10_EduManagerDB\\03_Queries.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (102))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T13:28:01.897Z",
+              "EditorCaption": " - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (102))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "02_InsertSampleData.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (101))",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\02_InsertSampleData.sql",
+              "RelativeDocumentMoniker": "Lab10_EduManagerDB\\02_InsertSampleData.sql",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\02_InsertSampleData.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (101))",
+              "RelativeToolTip": "Lab10_EduManagerDB\\02_InsertSampleData.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (101))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T13:28:01.594Z",
+              "EditorCaption": " - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (101))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01_CreateDatabase.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (100))",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\01_CreateDatabase.sql",
+              "RelativeDocumentMoniker": "Lab10_EduManagerDB\\01_CreateDatabase.sql",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\Lab 10\\Lab10_EduManagerDB\\01_CreateDatabase.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (100))",
+              "RelativeToolTip": "Lab10_EduManagerDB\\01_CreateDatabase.sql - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (100))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-30T13:28:01.259Z",
+              "EditorCaption": " - (local).EduManagerDB (LAPTOP-9QQFD1FR\\ACER (100))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
