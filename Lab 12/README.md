@@ -38,18 +38,18 @@ QLSinhVienLab12
 - sp_KetQua_Save (đã có điểm thì UPDATE, chưa có thì INSERT)
 
 ## Cách hoạt động của phần lưu
-1. Bấm Lưu tất cả: gọi `EndEdit()` để lấy giá trị đang sửa trên grid.
-2. `ValidateData` kiểm tra điểm là số và từ 0 đến 10. Có dòng sai thì báo lỗi, chưa chạm database.
-3. `KetQuaDAL.SaveAll` mở transaction, gọi `sp_KetQua_Save` cho từng dòng, xong hết mới Commit. Có lỗi thì Rollback.
+## Giao diện
+<img width="757" height="557" alt="Screenshot 2026-11-01 202156" src="https://github.com/user-attachments/assets/51855c8b-cbb7-402b-906f-0e466cdfab99" />
 
-Các test case xem trong `TestCases.md`.
+## Nhập điểm sai
+<img width="751" height="557" alt="Screenshot 2026-11-01 202847" src="https://github.com/user-attachments/assets/aaefe1b8-647f-4171-974e-c48084392dcf" />
 
-## Đẩy lên GitHub
-```
-git init
-git add .
-git commit -m "Lab 12 - Nhap diem theo lop"
-git branch -M main
-git remote add origin <link-repo-cua-ban>
-git push -u origin main
-```
+## Lưu thành công
+<img width="777" height="570" alt="Screenshot 2026-11-01 202214" src="https://github.com/user-attachments/assets/e98bdd7f-0dd3-47fd-8c35-ccd342650052" />
+
+
+## Lưu đồng thời trên sql
+<img width="1660" height="416" alt="Screenshot 2026-11-01 202656" src="https://github.com/user-attachments/assets/7144ae73-f750-4f17-8d44-761957e1cd92" />
+
+
+
