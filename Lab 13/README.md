@@ -22,24 +22,32 @@ StudentReportDemo
 ```
 
 ## Chức năng
-| Chức năng | Cách làm |
-|-----------|----------|
-| Load lớp và kết quả vào ComboBox | `LoadComboBox`: Select + Distinct + OrderBy |
-| Xem báo cáo | `XemBaoCao`: Where (lớp, kết quả, từ khóa), OrderByDescending theo điểm, ThenBy họ tên, Select |
-| Thống kê trên label | `CapNhatThongKe`: Count, Average |
-| Thống kê theo lớp | `btnThongKe_Click`: GroupBy, Count, Average |
-| Xuất file | `XuatFile`: SaveFileDialog, StringBuilder, File.WriteAllText, có try-catch |
+## Giao diện
 
-Báo cáo tự cập nhật khi đổi lớp, đổi kết quả hoặc gõ từ khóa. Nếu không có dữ liệu thì label báo rõ, bấm nút Xem báo cáo thì hiện thêm hộp thoại.
+<img width="841" height="547" alt="Screenshot 2026-11-01 203631" src="https://github.com/user-attachments/assets/7ab4cdca-3560-4ca6-99f5-159476cccff2" />
 
-Các test case xem trong `TestCases.md`.
+## Thống kê tất cả
 
-## Đẩy lên GitHub
-```
-git init
-git add .
-git commit -m "Lab 13 - Bao cao sinh vien bang LINQ"
-git branch -M main
-git remote add origin <link-repo-cua-ban>
-git push -u origin main
-```
+<img width="841" height="547" alt="Screenshot 2026-11-01 203648" src="https://github.com/user-attachments/assets/8ee6afcb-b26b-482b-8411-f90176762b69" />
+
+## Tìm kiếm sinh viên đạt
+
+<img width="842" height="541" alt="Screenshot 2026-11-01 203701" src="https://github.com/user-attachments/assets/76b62c53-2b77-4989-9d56-6c13b9afb695" />
+
+## Tìm kiếm sinh viên không đạt
+
+<img width="842" height="546" alt="Screenshot 2026-11-01 203709" src="https://github.com/user-attachments/assets/b217bdcf-63db-4aed-b38a-479683e1753e" />
+
+## Tìm theo mã sinh viên
+<img width="838" height="545" alt="Screenshot 2026-11-01 203750" src="https://github.com/user-attachments/assets/a99e0d47-b975-4aab-928d-f5440644d367" />
+## Không tìm thấy dữ liệu
+
+<img width="847" height="548" alt="Screenshot 2026-11-01 203832" src="https://github.com/user-attachments/assets/475b7738-a0eb-4bfa-b98d-7a82faeaa031" />
+
+## Tìm kiếm theo tên
+
+<img width="841" height="545" alt="Screenshot 2026-11-01 204025" src="https://github.com/user-attachments/assets/16785363-91b3-44c8-b3b1-e8d46276bd15" />
+
+
+
+
